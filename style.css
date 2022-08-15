@@ -1,0 +1,45 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    box-sizing: border-box;
+}
+.main-div{
+    text-align: center;
+    color: #ffffff;
+ 
+   width: 100%;
+    
+}
+.hedar-div{
+    background: #088297;
+
+}
+img{
+ 
+    width: 100%;
+}
+
+.container{
+background: #16a085;
+max-width: 100%;
+
+}
+p{
+    text-align: justify;
+}
+.op{
+    padding: 50px;
+}
+
+.footer ,a{
+    color: rgb(251, 255, 255);
+    text-decoration: none;
+    background: #2c3e50;
+    padding: 30px;
+
+}
+.copy{
+    background: #34495e;
+   
+}
